@@ -20,7 +20,7 @@
       (search id="setupNote" and remove that div)
 ═══════════════════════════════════════════════════════════ */
 const EMAILJS_SERVICE_ID  = 'service_vxrndd8';
-const EMAILJS_TEMPLATE_ID = 'template_el4y2ob';
+const EMAILJS_TEMPLATE_ID = 'template_nxnayfn';
 const EMAILJS_PUBLIC_KEY  = 'y9FUZWRd0FYRB158P';
 
 (function () {
