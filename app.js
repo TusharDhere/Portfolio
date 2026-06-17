@@ -7,9 +7,9 @@
    4. Account → API Keys → copy Public Key
    5. Paste below, then remove setup-note div in index.html
 ═══════════════════════════════════════════════════════════ */
-const EMAILJS_SERVICE_ID  = service_vxrndd8;
-const EMAILJS_TEMPLATE_ID = template_1bf380t;
-const EMAILJS_PUBLIC_KEY  = y9FUZWRd0FYRB158P;
+const EMAILJS_SERVICE_ID  = 'service_vxrndd8';
+const EMAILJS_TEMPLATE_ID = 'template_1bf380t';
+const EMAILJS_PUBLIC_KEY  = 'y9FUZWRd0FYRB158P';
 
 (function () {
   try { emailjs.init({ publicKey: EMAILJS_PUBLIC_KEY }); } catch(e) {}
